@@ -13,7 +13,7 @@
 ---
 
 ## 1. System Overview
-**4SS-ORE-02-ALCSF** is an immutable, real-time telemetry and state-reconciliation protocol engineered for high-throughput distributed systems, decentralized compute nodes, and variable-latency environments. Originating from Delta Nannette Omega - Yeoman LLC (DNO-Y) and open-sourced via the BNG Global Humanitarian Foundation (BNG-GHF), the architecture replaces rigid polling loops and unbuffered pipelines with continuous latency modeling and non-blocking telemetry synchronization. Commercial deployments, proprietary enterprise integration suites, and solid-state silicon controllers remain under separate commercial license with Ballesteros Ballast Infrastructure LLC (BBI) and Delta Nannette Omega - Yeoman LLC (DNO-Y).
+**4SS-ORE-ALCSF-AI-HEU-RO** is an immutable, real-time telemetry and state-reconciliation protocol engineered for high-throughput distributed systems, decentralized compute nodes, and variable-latency environments. Originating from Delta Nannette Omega - Yeoman LLC (DNO-Y) and open-sourced via the BNG Global Humanitarian Foundation (BNG-GHF), the architecture replaces rigid polling loops and unbuffered pipelines with continuous latency modeling and non-blocking telemetry synchronization. Commercial deployments, proprietary enterprise integration suites, and solid-state silicon controllers remain under separate commercial license with Ballesteros Ballast Infrastructure LLC (BBI) and Delta Nannette Omega - Yeoman LLC (DNO-Y).
 
 ---
 
