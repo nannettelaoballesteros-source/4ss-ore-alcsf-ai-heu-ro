@@ -32,7 +32,7 @@
 ## 3. Statutory & Prior Art Notice
 > **PRIORITY & PRIOR ART NOTICE:** The systems, structural specifications, hardware designs, bus partition methodologies, and orchestration paradigms detailed in this repository are subject to one or more pending patent applications with the United States Patent and Trademark Office (USPTO), including:
 >
-> * **U.S. Provisional Patent Application Serial No.:** 64/088,477 (*ALCSF Framework / Adaptive Latency & Synchronization Mechanics*)
+> * **U.S. Provisional Patent Application Serial No.:** 64/088,477
 > * **USPTO Filing Date:** June 11, 2026
 > * **Lead Inventor / Architect:** Nannette Lao Ballesteros
 > * **IP Origin & Proprietary Control:** Delta Nannette Omega - Yeoman LLC (DNO-Y)
